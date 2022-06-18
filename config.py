@@ -1,2 +1,2 @@
-BOT_TOKEN = "5528682821:AAE89g6478Z63PdrGGi2L-UzY_RNhUeYoxs"
-APP_URL = "https://hosenaead.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5528682821:AAFFrfvqmz-ADyC4ZXm2k59HYn0XUPPQEik"
+APP_URL = "https://hosenaeadd.herokuapp.com/" + BOT_TOKEN
