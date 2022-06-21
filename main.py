@@ -33,7 +33,7 @@ def boten(message):
 
     F = types.InlineKeyboardButton(text ="(9UUUUU)", callback_data="F7")
     
-    M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+    M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/rr8r9')
     
     mas.add(A,E,K,J,I,O,F)
     mas.add(M)
@@ -65,7 +65,7 @@ def masg(call):
 		
 		F = types.InlineKeyboardButton(text ="(9UUUUU)", callback_data="F7")
 		
-		M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+		M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/xl444')
 		
 		bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id, text="- أهلاً بكً عزيزي المستخدم \n\n- بوت تشكير يوزرات تلجرام 🧑‍💻\n\n♻️ لوحة التحكم الخاصه بك ♨️",reply_markup=mas)
 
@@ -98,7 +98,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{h}\n------------─ ♰♰♰ ♰------------─\n• ‹ ♰ مطور تگسن  @E_4_1 ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{h}\n------------─ ♰♰♰ ♰------------─\n• ‹ ♰ مطور البوت @RR8R9 ♰  ›")
 				
 			else:
 				cp+=1
@@ -108,7 +108,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{h}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/RR8R9')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)
 				
@@ -146,7 +146,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{li}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{li}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰ مطور البوت @RR8R9 ♰  › ♰  ›")
 				
 			else:
 				cp+=1
@@ -156,7 +156,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{li}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/xl444')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)
 		
@@ -183,7 +183,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور البوت @RR8R9 ♰  › ♰  ›")
 				
 			else:
 				cp+=1
@@ -193,7 +193,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{username}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/rr8r9')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)
 				
@@ -221,7 +221,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور البوت @RR8R9 ♰› ♰  ›")
 				
 			else:
 				cp+=1
@@ -231,7 +231,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{username}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/rr8r9')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)
 				
@@ -259,7 +259,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور البوت @RR8R9 ♰  › ♰  ›")
 				
 			else:
 				cp+=1
@@ -297,7 +297,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{username}\n------------─ ♰♰♰ ♰------------─\n ‹ ♰  ‹♰ مطور البوت @RR8R9 ♰  › ♰  ›")
 				
 			else:
 				cp+=1
@@ -307,7 +307,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{username}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/rr8r9')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)
 				
@@ -341,7 +341,7 @@ def masg(call):
 			if response.text.find('If you have <strong>Telegram</strong>, you can contact <a class="tgme_username_link"')>=0:
 				ok+=1
 				sk+=1
-				bot.send_message(call.message.chat.id,f"♰‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{j}\n------------─ ♰♰♰\n ‹ ♰  ‹ ♰ مطور تگسن @E_4_1 ♰  › ♰  ›")
+				bot.send_message(call.message.chat.id,f"♰‹ يوزر تلي متاح ®\n------------─ ♰♰♰ ♰------------─\n‹ صدتلك يوزر : @{j}\n------------─ ♰♰♰\n ‹ ♰  ‹ ♰ مطور البوت @RR8R9 ♰  › ♰  ›")
 				
 			else:
 				cp+=1
@@ -351,7 +351,7 @@ def masg(call):
 				E = types.InlineKeyboardButton(f'EROR : {cp}', callback_data="1x")
 				B = types.InlineKeyboardButton(f'{j}', callback_data="1x")
 				R = types.InlineKeyboardButton(f'{sk}', callback_data="1x")
-				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/N1111V')
+				M = types.InlineKeyboardButton(' ‹  ♰ قناة المطور ♰  ›', url='https://t.me/xl444')
 				mas.add(A,E,B,R,M)
 				bot.edit_message_text(chat_id=call.message.chat.id,message_id=call.message.message_id,text="ok start",reply_markup=mas)			
 
